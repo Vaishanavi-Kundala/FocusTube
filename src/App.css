@@ -1,0 +1,18 @@
+.AppName{
+    color:#778899;
+    display:inline-block;
+    margin: 2% 2% 1%;
+}
+
+.SearchBar{
+    margin-top: 2%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+
+}
+p{
+    text-align: center;
+    color: #778899;
+    font-size: 200%;
+}
